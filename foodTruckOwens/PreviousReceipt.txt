@@ -1,0 +1,5 @@
+Items: 
+Chili (12 Oz.)
+Subtotal: $4
+Tax: $0.2
+Total: $4.2

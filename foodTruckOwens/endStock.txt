@@ -1,0 +1,10 @@
+Items: 
+Hamburger Patties: 50%
+Hot Dogs: 15%
+Hot Dogs has stock below 20%! Purchase more for tomorrow.
+Hamburger Buns: 66.6667%
+Hot Dog Buns: 100%
+Ounces Of Chili: 80%
+Fry Baskets: 13.3333%
+Fry Baskets has stock below 20%! Purchase more for tomorrow.
+Cans Of Soda: 50%
